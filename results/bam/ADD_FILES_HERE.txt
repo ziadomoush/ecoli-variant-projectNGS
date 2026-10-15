@@ -1,0 +1,3 @@
+Copy the three original <sample>.markdup.bam files and their .bai indexes here.
+Sample names: SRR2584863, SRR2584866, SRR2589044.
+Then run python3 scripts/refresh_manifest.py from the website root.

@@ -1,0 +1,2 @@
+Optional: add the six original trim.sub.fastq input files here without renaming them.
+The site works without distributing input reads.

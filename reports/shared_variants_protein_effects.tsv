@@ -1,0 +1,7 @@
+Gene	Position	REF	ALT	Ref_codon	Alt_codon	Protein_change	Consequence
+mrdB	648692	C	T	CGC	CAC	p.Arg69His	missense
+topA	1331794	C	A	ACG	AAG	p.Thr792Lys	missense
+pykF	1733343	G	A	GAT	AAT	p.Asp127Asn	missense
+malT	3481820	A	G	ACC	GCC	p.Thr46Ala	missense
+hslU	4100183	A	G	TCT	CCT	p.Ser350Pro	missense
+ytfN	4431393	TGG	T	GGC	CCA	p.Gly1176ProfsTer5	frameshift_stop_gained

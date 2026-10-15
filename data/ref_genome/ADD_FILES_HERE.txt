@@ -1,0 +1,3 @@
+Copy the original ecoli_rel606.fasta and its .fai and BWA indexes here.
+Add ecoli_rel606.gff if distributing the annotation source.
+Then refresh the file manifest.
